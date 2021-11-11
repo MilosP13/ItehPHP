@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Autoskola EZ</title>
+    <title>Autoskola EASY</title>
     <link rel="stylesheet" href="stylePocetna.css">
 </head>
 <body>
@@ -16,7 +16,7 @@
         <nav>
             <ul>
                 <li class="trenutna"><a href="pocetna.php"> Pocetna </a></li>
-                <li><a href="#">O nama</a></li>
+                <li><a href="oNama.php">O nama</a></li>
                 <li><a href="#">Dozvole</a>
                     <ul>
                         <li><a href="#">A Kategorija</a></li>
