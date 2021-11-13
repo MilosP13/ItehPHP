@@ -25,8 +25,8 @@
                     </ul>
                 </li>
                 
-                <li><a href="#">Galerija</a></li>
-                <li><a href="#">Log In</a></li>
+                <li><a href="galerija.php">Galerija</a></li>
+                <li><a href="#">Prijava</a></li>
             </ul>
         </nav>
         </div>   
