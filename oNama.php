@@ -19,9 +19,9 @@
                 <li class="trenutna"><a href="oNama.php">O nama</a></li>
                 <li><a href="#">Dozvole</a>
                     <ul>
-                        <li><a href="#">A Kategorija</a></li>
-                        <li><a href="#">B Kategorija</a></li>
-                        <li><a href="#">C Kategorija</a></li>
+                        <li><a href="aKategorija.php">A Kategorija</a></li>
+                        <li><a href="bKategorija.php">B Kategorija</a></li>
+                        <li><a href="cKategorija.php">C Kategorija</a></li>
                     </ul>
                 </li>
                 
