@@ -27,6 +27,7 @@
                 
                 <li class="trenutna"><a href="galerija.php">Galerija</a></li>
                 <li><a href="#">Prijava</a></li>
+                <li><a href="logout.php">Log Out</a></li>
             </ul>
         </nav>
         </div>   

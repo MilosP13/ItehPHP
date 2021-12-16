@@ -1,3 +1,14 @@
+<?php
+session_start();
+
+if(!isset($_SESSION["user_id"])){
+    header("Location: pocetna.php");
+}
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,6 +38,7 @@
                 
                 <li><a href="galerija.php">Galerija</a></li>
                 <li><a href="#">Prijava</a></li>
+                <li><a href="logout.php">Log Out</a></li>
             </ul>
         </nav>
         </div>   
