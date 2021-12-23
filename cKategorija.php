@@ -16,8 +16,8 @@
         <nav>
             <ul>
                 <li><a href="pocetna.php"> Pocetna </a></li>
-                <li class="trenutna"><a href="oNama.php">O nama</a></li>
-                <li><a href="#">Dozvole</a>
+                <li><a href="oNama.php">O nama</a></li>
+                <li class="trenutna"><a href="#">Dozvole</a>
                     <ul>
                         <li><a href="aKategorija.php">A Kategorija</a></li>
                         <li><a href="bKategorija.php">B Kategorija</a></li>
@@ -29,6 +29,7 @@
                 <li><a href="prijava.php">Prijava</a></li>
                 <li><a href="profil.php">Moj Profil</a></li>
                 <li><a href="logout.php">Log Out</a></li>
+                <li><a href="user_podesavanja.php">&#9881;</a></li>
             </ul>
         </nav>
         </div>   

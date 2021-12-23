@@ -40,6 +40,7 @@ if(!isset($_SESSION["user_id"])){
                 <li><a href="prijava.php">Prijava</a></li>
                 <li><a href="profil.php">Moj Profil</a></li>
                 <li><a href="logout.php">Log Out</a></li>
+                <li><a href="user_podesavanja.php">&#9881;</a></li>
             </ul>
         </nav>
         </div>   

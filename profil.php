@@ -4,7 +4,7 @@ include 'dbBroker.php';
 session_start();
 $id= $_SESSION['user_id'];
 
-$sql = "SELECT * FROM `users` INNER JOIN `kategorije` ON users.kategorija_id=kategorije.id WHERE users.id=$id" ;
+$sql = "SELECT * FROM `users` INNER JOIN `kategorije` ON users.kategorija_id=kategorije.idk WHERE users.id=$id" ;
 
 $result = mysqli_query($conn,$sql);
 

@@ -58,9 +58,6 @@ if (isset($_POST["login-btn"])){
     {
         $row = mysqli_fetch_assoc($check_email);
         $_SESSION["user_id"] = $row['id'];
-        $_SESSION["user_firstname"] = $row['firstname'];
-        $_SESSION["user_lastname"] = $row['lastname'];
-        $_SESSION["user_email"] = $row['email'];
 
         header("Location: pocetna.php");
     }

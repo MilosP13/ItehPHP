@@ -1,9 +1,12 @@
 <?php
 
     include 'dbBroker.php';
+    
     session_start();
     error_reporting(0);
-   
+    
+
+
     if(isset($_POST['update']))
     {
         $id = $_SESSION['user_id'];
